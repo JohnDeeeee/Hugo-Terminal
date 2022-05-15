@@ -1,5 +1,2 @@
 [content.poduction.environment]
 HUGO_VERSION = "0.98.0"
-[build]
-  command = "npm run build && npm run export"
-  publish = "dist"
